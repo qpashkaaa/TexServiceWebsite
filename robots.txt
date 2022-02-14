@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://Техсервис68.рф/sitemap.xml

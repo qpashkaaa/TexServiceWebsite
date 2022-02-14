@@ -1,0 +1,27 @@
+.niz-banner-tambov {
+    background-color: #064778;
+    height: 300px;
+}
+
+
+.uk-card:hover {
+    background-color:#064778;
+    color: white;
+
+    
+}
+
+.uk-card:hover  h3 {
+    color: white;
+}
+
+.uk-card:hover uk-button {
+color: #00A0E3
+}
+
+.my-contact {
+    background-color: #00A0E3; 
+    border-radius: 10px; 
+    height: auto; 
+    margin-top: -50px;
+}
