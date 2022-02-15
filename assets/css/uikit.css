@@ -12439,14 +12439,15 @@ iframe.uk-cover {
 
 .prikaz-akk
 {
-  border:solid black;
   margin-bottom: 1px;
-  width: 50%;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
 }
 
 .documentimage{
   width: 80%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   border: solid black;
 }
 
@@ -12458,5 +12459,28 @@ footer
 .documentimage-pril
 {
   width: 70%;
+  border: solid black;
+}
+
+.akklogo
+{
+  width: 3%;
+}
+
+.akklogoaplication
+{
+  /*border:solid black;*/
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+a
+{
+  color:black
+}
+
+.prikazimg
+{
+  width: 47%;
   border: solid black;
 }
