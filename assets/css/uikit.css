@@ -7253,6 +7253,11 @@ ul.uk-nav-sub {
 .uk-text-bold {
   font-weight: 700;
 }
+.uk-text-bold-center
+{
+  font-weight: 700;
+  text-align: center;
+}
 .uk-text-lighter {
   font-weight: lighter;
 }
@@ -8830,6 +8835,9 @@ iframe.uk-cover {
  ========================================================================== */
 .uk-padding {
   padding: 30px;
+}
+.uk-padding-1 {
+  padding: 100px;
 }
 /* Desktop and bigger */
 @media (min-width: 1200px) {
@@ -12420,4 +12428,35 @@ iframe.uk-cover {
   h3 {
     page-break-after: avoid;
   }
+}
+
+.document-div-1
+{
+  margin-bottom: 1px;
+  display: inline-block;
+  text-align: center;
+}
+
+.prikaz-akk
+{
+  border:solid black;
+  margin-bottom: 1px;
+  width: 50%;
+}
+
+.documentimage{
+  width: 80%;
+  margin-bottom: 20px;
+  border: solid black;
+}
+
+footer
+{
+  margin-top: 50px;
+}
+
+.documentimage-pril
+{
+  width: 70%;
+  border: solid black;
 }
