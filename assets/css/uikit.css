@@ -12491,3 +12491,12 @@ a
   height: 1000px;
   margin-bottom: 20px;
 }
+
+.public-dogovor
+{
+  border:solid black;
+  margin-bottom: 20px;
+  width: 30%;
+  height: 50%;
+  text-align: center;
+}
