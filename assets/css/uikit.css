@@ -12484,3 +12484,10 @@ a
   width: 47%;
   border: solid black;
 }
+
+.document-div-2
+{
+  border:solid black;
+  height: 1000px;
+  margin-bottom: 20px;
+}
