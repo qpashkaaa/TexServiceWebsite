@@ -12501,7 +12501,7 @@ a
 {
   border:solid black;
   margin :10px 0px 10px 0px;
-  padding:15px 0px 0px 0px;
+  padding:15px 10px 15px 10px;
   width: 30%;
   height: 50%;
   text-align: center;
@@ -12534,7 +12534,7 @@ a
 
 .pdf-logo
 {
-  width: 10%;
+  width: 8%;
 }
 
 .lake {
@@ -12601,3 +12601,15 @@ a
   {
     width: 10%;
   }
+
+  .public-dogovor-text
+  {
+    width: 100%;
+  }
+
+.uk-text-bold-center-span
+{
+  font-weight: 700;
+  text-align: center;
+  font-size: 18px;
+}
